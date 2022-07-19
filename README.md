@@ -9,6 +9,8 @@ devtools::install_github("wenchaoli1007/AssDis")
 
 #download TIGs reference from: 
 
+https://github.com/wenchaoli1007/AssDis/blob/main/RData/TIGs.RData
+
 
 # example
 library(AssDis)
